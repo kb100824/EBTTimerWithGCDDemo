@@ -58,5 +58,5 @@
 }
 #效果图
 
-[!Image](https://github.com/KBvsMJ/EBTTimerWithGCDDemo/blob/master/demoGif/1.gif)
+![Image](https://github.com/KBvsMJ/EBTTimerWithGCDDemo/blob/master/demoGif/1.gif)
 
