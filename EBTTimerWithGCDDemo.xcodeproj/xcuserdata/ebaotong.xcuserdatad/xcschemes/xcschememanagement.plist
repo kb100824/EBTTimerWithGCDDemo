@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EBTTimerWithGCDDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7DE0C7E51C054F7300AC5B56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7DE0C7FE1C054F7300AC5B56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7DE0C8091C054F7300AC5B56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
